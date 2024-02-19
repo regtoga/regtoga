@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ... my README.md file so I don't flunk out of my computer science class.
+- 🔭 I’m currently working on ... my LogicThursday Program because it is my current passion.
 - 🌱 I’m currently learning ... about computer science and on my way to get my associate's degree regarding it.
 - 👯 I’m looking to collaborate on ... redstone projects.
 - 🤔 I’m looking for help with ... herding her cats.
